@@ -1,0 +1,32 @@
+plugins {
+    id 'java'
+    id 'org.openjfx.javafxplugin' version '0.0.7'
+    id 'application'
+}
+
+group 'org.example'
+version '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+javafx {
+    modules = [ 'javafx.controls', 'javafx.fxml'  ]
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
+    implementation project (':TriatlonModel')
+    implementation project (':TriatlonServices')
+    implementation project (':TriatlonNetworking')
+}
+
+test {
+    useJUnitPlatform()
+}
+
+application{
+    mainClass='StartRpcClientFX'
+}

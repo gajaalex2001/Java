@@ -1,0 +1,1209 @@
+04 Apr 2022 00:15:05,968 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 00:15:05,973 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 00:15:05,978 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 00:15:23,371 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 00:15:23,372 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 00:15:23,373 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 00:15:23,373 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 00:15:23,374 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 00:15:23,374 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 00:15:23,374 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 00:15:24,035 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3deee844)
+04 Apr 2022 00:15:24,042 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 00:16:14,862 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 00:16:14,866 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 00:16:14,867 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 00:16:37,052 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 00:16:37,052 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 00:16:37,053 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 00:16:37,053 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 00:16:37,053 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 00:16:37,053 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 00:16:37,053 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 00:16:37,165 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3deee844)
+04 Apr 2022 00:16:37,168 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 00:17:08,734 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 00:17:08,738 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 00:17:08,740 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 00:17:28,084 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 00:17:28,085 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 00:17:28,085 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 00:17:28,085 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 00:17:28,086 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 00:17:28,086 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 00:17:28,086 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 00:17:28,215 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3deee844)
+04 Apr 2022 00:17:28,218 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 00:24:35,853 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 00:24:35,856 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 00:24:35,857 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 00:24:55,625 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 00:24:55,625 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 00:24:55,626 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 00:24:55,626 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 00:24:55,626 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 00:24:55,626 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 00:24:55,626 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 00:24:55,750 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3deee844)
+04 Apr 2022 00:24:55,752 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 00:25:05,487 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 00:25:05,487 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 00:25:05,487 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 00:25:05,488 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3deee844)
+04 Apr 2022 00:25:05,488 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 00:33:05,059 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 00:33:05,062 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 00:33:05,063 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 00:33:22,617 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 00:33:22,618 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 00:33:22,618 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 00:33:22,618 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 00:33:22,618 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 00:33:22,619 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 00:33:22,619 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 00:33:22,753 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3deee844)
+04 Apr 2022 00:33:22,756 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 00:34:22,759 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 00:34:22,760 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 00:34:22,760 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 00:34:22,760 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3deee844)
+04 Apr 2022 00:34:22,761 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 00:34:26,930 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 00:34:26,931 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 00:34:26,931 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 00:34:26,931 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3deee844)
+04 Apr 2022 00:34:26,931 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 00:41:32,001 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 00:41:32,004 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 00:41:32,005 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 00:41:45,027 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 00:41:45,028 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 00:41:45,028 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 00:41:45,028 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 00:41:45,029 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 00:41:45,029 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 00:41:45,029 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 00:41:45,151 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5c3a9eb2)
+04 Apr 2022 00:41:45,154 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 00:42:06,115 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 00:42:06,116 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 00:42:06,116 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 00:42:06,116 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5c3a9eb2)
+04 Apr 2022 00:42:06,117 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 01:08:20,679 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 01:08:20,684 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 01:08:20,685 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 01:08:38,756 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 01:08:38,756 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 01:08:38,757 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 01:08:38,757 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 01:08:38,757 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 01:08:38,757 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 01:08:38,757 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 01:08:38,914 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5c3a9eb2)
+04 Apr 2022 01:08:38,917 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 01:09:34,332 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 01:09:34,333 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 01:09:34,333 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 01:09:34,333 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5c3a9eb2)
+04 Apr 2022 01:09:34,334 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 01:10:42,519 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 01:10:42,519 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 01:10:42,520 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 01:10:42,520 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5c3a9eb2)
+04 Apr 2022 01:10:42,520 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 01:11:56,185 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 01:11:56,186 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 01:11:56,186 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 01:11:56,186 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5c3a9eb2)
+04 Apr 2022 01:11:56,186 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 01:18:35,660 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 01:18:35,660 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 01:18:35,660 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 01:18:35,661 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5c3a9eb2)
+04 Apr 2022 01:18:35,661 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 01:19:34,541 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 01:19:34,541 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 01:19:34,541 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 01:19:34,542 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5c3a9eb2)
+04 Apr 2022 01:19:34,542 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 13:17:18,957 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 13:17:18,972 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 13:17:18,972 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 13:17:44,165 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 13:17:44,166 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 13:17:44,166 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 13:17:44,166 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 13:17:44,166 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 13:17:44,167 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 13:17:44,167 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 13:17:44,812 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1c7b79ad)
+04 Apr 2022 13:17:44,816 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 13:17:45,839 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 13:17:45,840 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 13:17:45,840 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 13:17:45,840 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 13:17:45,840 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 13:17:45,840 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 13:17:45,841 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5bd7b655)
+04 Apr 2022 13:17:45,842 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 13:25:16,266 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 13:25:16,269 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 13:25:16,270 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 13:25:27,015 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 13:25:27,016 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 13:25:27,016 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 13:25:27,016 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 13:25:27,016 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 13:25:27,017 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 13:25:27,017 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 13:25:27,138 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3c890897)
+04 Apr 2022 13:25:27,141 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 13:25:28,163 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 13:25:28,164 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 13:25:28,164 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 13:25:28,164 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 13:25:28,164 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 13:25:28,164 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 13:25:28,166 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@19efad99)
+04 Apr 2022 13:25:28,167 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 13:25:32,069 TRACE repository.ParticipantDBRepository 71 getRaportParticipanti - Enter
+04 Apr 2022 13:25:32,069 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 13:25:32,070 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@19efad99)
+04 Apr 2022 13:25:32,070 TRACE repository.ParticipantDBRepository 106 getRaportParticipanti - Exit
+04 Apr 2022 13:26:39,881 TRACE repository.ParticipantDBRepository 71 getRaportParticipanti - Enter
+04 Apr 2022 13:26:39,881 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 13:26:39,881 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@19efad99)
+04 Apr 2022 13:26:39,882 TRACE repository.ParticipantDBRepository 106 getRaportParticipanti - Exit
+04 Apr 2022 13:26:44,811 TRACE repository.ParticipantDBRepository 71 getRaportParticipanti - Enter
+04 Apr 2022 13:26:44,811 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 13:26:44,811 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@19efad99)
+04 Apr 2022 13:26:44,812 TRACE repository.ParticipantDBRepository 106 getRaportParticipanti - Exit
+04 Apr 2022 13:34:39,901 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 13:34:39,902 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 13:34:39,902 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 13:34:39,902 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3c890897)
+04 Apr 2022 13:34:39,903 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 13:34:40,905 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 13:34:40,906 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 13:34:40,907 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@19efad99)
+04 Apr 2022 13:34:40,908 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 13:34:51,121 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 13:34:51,122 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 13:34:51,122 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 13:34:51,122 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3c890897)
+04 Apr 2022 13:34:51,122 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 13:34:54,626 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 13:34:54,627 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 13:34:54,627 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 13:34:54,627 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3c890897)
+04 Apr 2022 13:34:54,628 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 13:34:55,636 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 13:34:55,637 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 13:34:55,638 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@19efad99)
+04 Apr 2022 13:34:55,639 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:01:33,751 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:01:33,751 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:01:33,751 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:01:55,812 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 14:01:55,812 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 14:01:55,812 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:01:55,813 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:01:55,813 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:01:55,813 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:01:55,813 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:01:55,923 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6472c983)
+04 Apr 2022 14:01:55,927 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 14:01:56,943 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:01:56,944 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:01:56,945 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:01:56,945 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:01:56,945 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:01:56,945 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:01:56,946 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1ac5a95a)
+04 Apr 2022 14:01:56,947 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:02:00,110 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 2 to participant 5 for competition 1
+04 Apr 2022 14:02:00,110 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:02:00,110 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:02:00,110 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:02:00,111 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:02:00,111 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:02:00,111 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1a74dbaa)
+04 Apr 2022 14:02:00,124 TRACE repository.ProbaDBRepository 51 addResult - Updated 1 participant
+04 Apr 2022 14:02:00,125 TRACE repository.ProbaDBRepository 52 addResult - Exit
+04 Apr 2022 14:06:56,888 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:06:56,888 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:06:56,888 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:07:19,992 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 14:07:19,993 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 14:07:19,993 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:07:19,993 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:07:19,994 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:07:19,994 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:07:19,994 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:07:20,122 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6df3cb6d)
+04 Apr 2022 14:07:20,125 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 14:07:21,140 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:07:21,140 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:07:21,141 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:07:21,141 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:07:21,141 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:07:21,141 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:07:21,142 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12415216)
+04 Apr 2022 14:07:21,143 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:07:27,498 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 3 to participant 1 for competition 1
+04 Apr 2022 14:07:27,498 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:07:27,499 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:07:27,499 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:07:27,499 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:07:27,499 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:07:27,500 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4320c487)
+04 Apr 2022 14:07:27,521 TRACE repository.ProbaDBRepository 51 addResult - Updated 1 participant
+04 Apr 2022 14:07:27,522 TRACE repository.ProbaDBRepository 52 addResult - Exit
+04 Apr 2022 14:07:27,522 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:07:27,522 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:07:27,522 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12415216)
+04 Apr 2022 14:07:27,523 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:08:24,459 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:08:24,459 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:08:24,459 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:08:39,341 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 14:08:39,341 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 14:08:39,341 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:08:39,342 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:08:39,342 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:08:39,342 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:08:39,342 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:08:39,489 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6df3cb6d)
+04 Apr 2022 14:08:39,492 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 14:08:40,503 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:08:40,503 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:08:40,503 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:08:40,504 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:08:40,504 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:08:40,504 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:08:40,505 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12415216)
+04 Apr 2022 14:08:40,507 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:08:44,815 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 1 to participant 1 for competition 1
+04 Apr 2022 14:08:44,815 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:08:44,815 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:08:44,816 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:08:44,816 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:08:44,816 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:08:44,817 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4320c487)
+04 Apr 2022 14:08:44,837 TRACE repository.ProbaDBRepository 51 addResult - Updated 1 participant
+04 Apr 2022 14:08:44,837 TRACE repository.ProbaDBRepository 52 addResult - Exit
+04 Apr 2022 14:08:44,838 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:08:44,838 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:08:44,838 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12415216)
+04 Apr 2022 14:08:44,838 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:09:47,504 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:09:47,504 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:09:47,504 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:10:01,075 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 14:10:01,076 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 14:10:01,076 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:10:01,076 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:10:01,076 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:10:01,076 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:10:01,077 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:10:01,203 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6df3cb6d)
+04 Apr 2022 14:10:01,206 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 14:10:02,226 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:10:02,227 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:10:02,228 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:10:02,229 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:10:02,229 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:10:02,230 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:10:02,232 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12415216)
+04 Apr 2022 14:10:02,236 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:10:06,462 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 1 to participant 1 for competition 1
+04 Apr 2022 14:10:06,462 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:10:06,463 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:10:06,463 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:10:06,463 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:10:06,463 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:10:06,464 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4320c487)
+04 Apr 2022 14:10:06,486 TRACE repository.ProbaDBRepository 51 addResult - Updated 1 participant
+04 Apr 2022 14:10:06,487 TRACE repository.ProbaDBRepository 52 addResult - Exit
+04 Apr 2022 14:10:06,487 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:10:06,487 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:10:06,487 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12415216)
+04 Apr 2022 14:10:06,488 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:10:54,097 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 14:10:54,097 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 14:10:54,097 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:10:54,097 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6df3cb6d)
+04 Apr 2022 14:10:54,098 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 14:11:13,123 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:11:13,138 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:11:13,138 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:11:23,474 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 14:11:23,475 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 14:11:23,475 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:11:23,475 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:11:23,475 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:11:23,476 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:11:23,476 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:11:23,598 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6df3cb6d)
+04 Apr 2022 14:11:23,602 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 14:11:24,618 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:11:24,627 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:11:24,627 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:11:24,628 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:11:24,628 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:11:24,628 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:11:24,628 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12415216)
+04 Apr 2022 14:11:24,630 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:11:34,899 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 14:11:34,900 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 14:11:34,900 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:11:34,900 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6df3cb6d)
+04 Apr 2022 14:11:34,900 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 14:11:35,908 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:11:35,908 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:11:35,908 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12415216)
+04 Apr 2022 14:11:35,909 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:11:42,632 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 1 to participant 1 for competition 2
+04 Apr 2022 14:11:42,632 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:11:42,632 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:11:42,633 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:11:42,633 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:11:42,633 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:11:42,634 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1603348a)
+04 Apr 2022 14:11:42,658 TRACE repository.ProbaDBRepository 51 addResult - Updated 1 participant
+04 Apr 2022 14:11:42,658 TRACE repository.ProbaDBRepository 52 addResult - Exit
+04 Apr 2022 14:11:42,658 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:11:42,659 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:11:42,659 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12415216)
+04 Apr 2022 14:11:42,660 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:16:14,460 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:16:14,460 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:16:14,460 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:16:56,572 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:16:56,572 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:16:56,572 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:17:10,147 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 14:17:10,148 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 14:17:10,148 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:17:10,148 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:17:10,148 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:17:10,148 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:17:10,149 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:17:10,272 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@e2af075)
+04 Apr 2022 14:17:10,275 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 14:17:11,289 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:17:11,290 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:17:11,290 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:17:11,290 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:17:11,290 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:17:11,290 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:17:11,291 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@40c09b13)
+04 Apr 2022 14:17:11,292 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:17:26,154 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 14:17:26,155 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 14:17:26,155 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:17:26,155 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@e2af075)
+04 Apr 2022 14:17:26,156 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 14:17:27,161 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:17:27,161 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:17:27,162 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@40c09b13)
+04 Apr 2022 14:17:27,164 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:17:30,406 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 1 to participant 1 for competition 1
+04 Apr 2022 14:17:30,406 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:17:30,407 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:17:30,407 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:17:30,407 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:17:30,407 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:17:30,408 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d7f7e7b)
+04 Apr 2022 14:17:30,433 TRACE repository.ProbaDBRepository 51 addResult - Updated 1 participant
+04 Apr 2022 14:17:30,434 TRACE repository.ProbaDBRepository 52 addResult - Exit
+04 Apr 2022 14:17:30,434 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:17:30,434 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:17:30,434 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@40c09b13)
+04 Apr 2022 14:17:30,435 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:27:34,612 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:27:34,612 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:27:34,612 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:27:48,150 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 14:27:48,150 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 14:27:48,150 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:27:48,151 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:27:48,151 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:27:48,151 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:27:48,151 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:27:48,268 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@e2af075)
+04 Apr 2022 14:27:48,271 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 14:27:49,292 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:27:49,292 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:27:49,292 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:27:49,292 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:27:49,293 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:27:49,293 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:27:49,293 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@40c09b13)
+04 Apr 2022 14:27:49,294 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:27:53,811 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 1 to participant 1 for competition 1
+04 Apr 2022 14:27:53,811 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:27:53,812 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:27:53,812 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:27:53,812 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:27:53,812 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:27:53,813 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d7f7e7b)
+04 Apr 2022 14:27:53,835 TRACE repository.ProbaDBRepository 51 addResult - Updated 1 participant
+04 Apr 2022 14:27:53,836 TRACE repository.ProbaDBRepository 52 addResult - Exit
+04 Apr 2022 14:27:53,836 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:27:53,836 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:27:53,836 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@40c09b13)
+04 Apr 2022 14:27:53,837 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:30:23,085 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:30:23,085 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:30:23,085 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:30:31,032 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 14:30:31,032 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 14:30:31,033 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:30:31,033 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:30:31,033 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:30:31,033 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:30:31,033 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:30:31,157 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@e2af075)
+04 Apr 2022 14:30:31,160 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 14:30:32,172 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:30:32,173 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:30:32,173 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:30:32,173 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:30:32,173 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:30:32,173 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:30:32,174 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@40c09b13)
+04 Apr 2022 14:30:32,175 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:30:34,304 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 2 to participant 1 for competition 1
+04 Apr 2022 14:30:34,305 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:30:34,305 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:30:34,305 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:30:34,305 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:30:34,306 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:30:34,306 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d7f7e7b)
+04 Apr 2022 14:30:34,329 TRACE repository.ProbaDBRepository 51 addResult - Updated 1 participant
+04 Apr 2022 14:30:34,329 TRACE repository.ProbaDBRepository 52 addResult - Exit
+04 Apr 2022 14:30:34,329 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:30:34,329 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:30:34,329 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@40c09b13)
+04 Apr 2022 14:30:34,330 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:34:06,802 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:34:06,802 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:34:06,818 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:34:21,236 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 14:34:21,236 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 14:34:21,237 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:34:21,237 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:34:21,237 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:34:21,237 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:34:21,237 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:34:21,347 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7a1200d3)
+04 Apr 2022 14:34:21,350 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 14:34:22,365 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:34:22,366 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:34:22,366 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:34:22,366 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:34:22,366 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:34:22,366 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:34:22,367 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@645fb7d7)
+04 Apr 2022 14:34:22,368 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:34:25,129 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 1 to participant 1 for competition 1
+04 Apr 2022 14:34:25,129 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:34:25,130 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:34:25,130 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:34:25,130 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:34:25,130 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:34:25,131 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@29086a25)
+04 Apr 2022 14:34:25,152 TRACE repository.ProbaDBRepository 51 addResult - Updated 1 participant
+04 Apr 2022 14:34:25,153 TRACE repository.ProbaDBRepository 52 addResult - Exit
+04 Apr 2022 14:34:25,153 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:34:25,153 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:34:25,153 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@645fb7d7)
+04 Apr 2022 14:34:25,154 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:35:41,763 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:35:41,763 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:35:41,763 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:36:25,387 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 14:36:25,388 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 14:36:25,388 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:36:25,388 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:36:25,388 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:36:25,388 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:36:25,389 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:36:25,512 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@e69a2ae)
+04 Apr 2022 14:36:25,515 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 14:36:26,539 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:36:26,539 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:36:26,539 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:36:26,540 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:36:26,540 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:36:26,540 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:36:26,540 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@43d3c2b4)
+04 Apr 2022 14:36:26,542 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:36:29,009 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 1 to participant 1 for competition 1
+04 Apr 2022 14:36:29,009 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:36:29,009 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:36:29,010 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:36:29,010 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:36:29,010 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:36:29,011 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@24228a34)
+04 Apr 2022 14:36:29,030 TRACE repository.ProbaDBRepository 51 addResult - Updated 1 participant
+04 Apr 2022 14:36:29,030 TRACE repository.ProbaDBRepository 52 addResult - Exit
+04 Apr 2022 14:36:29,031 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:36:29,031 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:36:29,031 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@43d3c2b4)
+04 Apr 2022 14:36:29,031 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:38:15,600 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:38:15,615 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:38:15,615 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:38:29,088 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 14:38:29,089 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 14:38:29,089 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:38:29,089 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:38:29,090 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:38:29,090 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:38:29,090 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:38:29,212 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@e69a2ae)
+04 Apr 2022 14:38:29,216 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 14:38:30,237 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:38:30,237 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:38:30,237 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:38:30,238 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:38:30,238 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:38:30,238 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:38:30,239 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@43d3c2b4)
+04 Apr 2022 14:38:30,240 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:38:32,348 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 1 to participant 1 for competition 1
+04 Apr 2022 14:38:32,349 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:38:32,349 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:38:32,349 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:38:32,349 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:38:32,350 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:38:32,350 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@24228a34)
+04 Apr 2022 14:38:32,372 TRACE repository.ProbaDBRepository 51 addResult - Updated 1 participant
+04 Apr 2022 14:38:32,373 TRACE repository.ProbaDBRepository 52 addResult - Exit
+04 Apr 2022 14:38:32,373 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:38:32,373 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:38:32,373 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@43d3c2b4)
+04 Apr 2022 14:38:32,374 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:40:12,717 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:40:12,733 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:40:12,733 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:40:26,785 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 14:40:26,785 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 14:40:26,785 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:40:26,785 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:40:26,786 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:40:26,786 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:40:26,786 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:40:26,890 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@e69a2ae)
+04 Apr 2022 14:40:26,892 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 14:40:27,917 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:40:27,917 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:40:27,917 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:40:27,917 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:40:27,917 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:40:27,918 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:40:27,918 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@43d3c2b4)
+04 Apr 2022 14:40:27,919 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:40:31,264 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 1 to participant 1 for competition 1
+04 Apr 2022 14:40:31,264 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:40:31,264 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:40:31,265 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:40:31,265 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:40:31,265 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:40:31,266 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@24228a34)
+04 Apr 2022 14:40:31,288 TRACE repository.ProbaDBRepository 51 addResult - Updated 1 participant
+04 Apr 2022 14:40:31,289 TRACE repository.ProbaDBRepository 52 addResult - Exit
+04 Apr 2022 14:40:31,289 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:40:31,289 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:40:31,289 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@43d3c2b4)
+04 Apr 2022 14:40:31,290 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:40:32,295 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:40:32,295 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:40:32,296 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@43d3c2b4)
+04 Apr 2022 14:40:32,298 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:41:02,276 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:41:02,280 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:41:02,280 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:41:09,235 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 14:41:09,235 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 14:41:09,235 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:41:09,236 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:41:09,236 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:41:09,236 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:41:09,236 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:41:09,349 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@e2af075)
+04 Apr 2022 14:41:09,352 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 14:41:10,374 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:41:10,375 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:41:10,375 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:41:10,375 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:41:10,375 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:41:10,376 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:41:10,376 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@40c09b13)
+04 Apr 2022 14:41:10,377 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:41:23,620 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 14:41:23,621 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 14:41:23,621 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:41:23,621 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@e2af075)
+04 Apr 2022 14:41:23,621 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 14:41:24,630 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:41:24,630 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:41:24,631 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@40c09b13)
+04 Apr 2022 14:41:24,633 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:41:29,313 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 2 to participant 1 for competition 2
+04 Apr 2022 14:41:29,313 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:41:29,313 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:41:29,313 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:41:29,314 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:41:29,314 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:41:29,315 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5cb88f4b)
+04 Apr 2022 14:41:29,342 TRACE repository.ProbaDBRepository 51 addResult - Updated 1 participant
+04 Apr 2022 14:41:29,343 TRACE repository.ProbaDBRepository 52 addResult - Exit
+04 Apr 2022 14:41:29,343 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:41:29,343 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:41:29,343 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@40c09b13)
+04 Apr 2022 14:41:29,344 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:41:30,355 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:41:30,355 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:41:30,356 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@40c09b13)
+04 Apr 2022 14:41:30,358 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:42:48,237 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:42:48,237 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:42:48,237 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 14:42:54,766 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 14:42:54,766 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 14:42:54,766 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:42:54,766 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:42:54,767 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:42:54,767 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:42:54,767 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:42:54,904 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6df3cb6d)
+04 Apr 2022 14:42:54,907 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 14:42:55,930 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:42:55,930 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:42:55,930 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:42:55,930 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:42:55,930 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:42:55,931 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:42:55,931 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12415216)
+04 Apr 2022 14:42:55,932 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:43:06,390 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 14:43:06,390 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 14:43:06,391 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:43:06,391 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6df3cb6d)
+04 Apr 2022 14:43:06,391 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 14:43:07,398 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:43:07,399 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:43:07,400 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12415216)
+04 Apr 2022 14:43:07,401 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:43:10,619 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 1 to participant 1 for competition 1
+04 Apr 2022 14:43:10,620 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:43:10,620 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 14:43:10,620 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 14:43:10,620 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 14:43:10,620 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 14:43:10,621 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4320c487)
+04 Apr 2022 14:43:10,640 TRACE repository.ProbaDBRepository 51 addResult - Updated 1 participant
+04 Apr 2022 14:43:10,641 TRACE repository.ProbaDBRepository 52 addResult - Exit
+04 Apr 2022 14:43:10,641 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:43:10,641 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:43:10,641 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12415216)
+04 Apr 2022 14:43:10,642 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 14:43:14,963 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 2 to participant 3 for competition 2
+04 Apr 2022 14:43:14,963 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:43:14,963 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4320c487)
+04 Apr 2022 14:43:14,964 TRACE repository.ProbaDBRepository 51 addResult - Updated 1 participant
+04 Apr 2022 14:43:14,964 TRACE repository.ProbaDBRepository 52 addResult - Exit
+04 Apr 2022 14:43:14,964 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 14:43:14,964 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 14:43:14,964 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12415216)
+04 Apr 2022 14:43:14,965 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 17:11:09,395 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 17:11:09,409 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 17:11:09,409 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+04 Apr 2022 17:11:32,953 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 17:11:32,953 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 17:11:32,954 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 17:11:32,954 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 17:11:32,954 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 17:11:32,954 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 17:11:32,954 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 17:11:33,930 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6472c983)
+04 Apr 2022 17:11:33,933 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 17:11:34,950 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 17:11:34,950 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 17:11:34,950 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 17:11:34,950 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 17:11:34,950 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 17:11:34,951 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 17:11:34,951 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1ac5a95a)
+04 Apr 2022 17:11:34,952 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 17:11:47,881 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+04 Apr 2022 17:11:47,882 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+04 Apr 2022 17:11:47,882 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 17:11:47,882 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6472c983)
+04 Apr 2022 17:11:47,882 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+04 Apr 2022 17:11:48,886 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 17:11:48,887 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 17:11:48,887 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1ac5a95a)
+04 Apr 2022 17:11:48,887 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 17:11:58,479 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 1 to participant 1 for competition 2
+04 Apr 2022 17:11:58,480 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 17:11:58,480 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+04 Apr 2022 17:11:58,480 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+04 Apr 2022 17:11:58,480 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+04 Apr 2022 17:11:58,481 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+04 Apr 2022 17:11:58,482 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@732f42bd)
+04 Apr 2022 17:11:58,489 TRACE repository.ProbaDBRepository 51 addResult - Updated 1 participant
+04 Apr 2022 17:11:58,489 TRACE repository.ProbaDBRepository 52 addResult - Exit
+04 Apr 2022 17:11:58,492 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 17:11:58,493 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 17:11:58,493 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1ac5a95a)
+04 Apr 2022 17:11:58,494 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 17:11:59,500 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 17:11:59,501 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 17:11:59,501 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1ac5a95a)
+04 Apr 2022 17:11:59,502 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 17:12:04,115 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 2 to participant 1 for competition 2
+04 Apr 2022 17:12:04,116 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 17:12:04,116 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@732f42bd)
+04 Apr 2022 17:12:04,139 TRACE repository.ProbaDBRepository 51 addResult - Updated 1 participant
+04 Apr 2022 17:12:04,140 TRACE repository.ProbaDBRepository 52 addResult - Exit
+04 Apr 2022 17:12:04,141 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 17:12:04,142 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 17:12:04,142 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1ac5a95a)
+04 Apr 2022 17:12:04,143 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 17:12:05,150 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 17:12:05,150 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 17:12:05,151 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1ac5a95a)
+04 Apr 2022 17:12:05,153 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 17:12:09,344 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 1 to participant 1 for competition 2
+04 Apr 2022 17:12:09,344 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 17:12:09,345 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@732f42bd)
+04 Apr 2022 17:12:09,366 TRACE repository.ProbaDBRepository 51 addResult - Updated 1 participant
+04 Apr 2022 17:12:09,366 TRACE repository.ProbaDBRepository 52 addResult - Exit
+04 Apr 2022 17:12:09,368 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 17:12:09,369 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 17:12:09,369 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1ac5a95a)
+04 Apr 2022 17:12:09,370 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+04 Apr 2022 17:12:10,374 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+04 Apr 2022 17:12:10,375 TRACE repository.JdbcUtils 48 getConnection - Enter
+04 Apr 2022 17:12:10,376 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1ac5a95a)
+04 Apr 2022 17:12:10,377 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+05 Apr 2022 13:12:47,275 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:12:47,275 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:12:47,275 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:13:02,873 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+05 Apr 2022 13:13:02,874 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+05 Apr 2022 13:13:02,874 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:13:02,874 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:13:02,874 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:13:02,874 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:13:02,874 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:13:03,331 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6df3cb6d)
+05 Apr 2022 13:13:03,335 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+05 Apr 2022 13:13:04,350 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+05 Apr 2022 13:13:04,350 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:13:04,350 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:13:04,350 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:13:04,351 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:13:04,351 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:13:04,352 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12415216)
+05 Apr 2022 13:13:04,353 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+05 Apr 2022 13:13:08,937 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 1 to participant 1 for competition 1
+05 Apr 2022 13:13:08,937 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:13:08,938 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:13:08,938 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:13:08,938 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:13:08,938 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:13:08,939 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4320c487)
+05 Apr 2022 13:14:13,510 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:14:13,510 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:14:13,510 INFO  repository.ParticipantDBRepository 23 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:14:26,519 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+05 Apr 2022 13:14:26,519 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+05 Apr 2022 13:14:26,520 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:14:26,520 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:14:26,520 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:14:26,520 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:14:26,520 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:14:26,639 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6df3cb6d)
+05 Apr 2022 13:14:26,643 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+05 Apr 2022 13:14:27,652 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+05 Apr 2022 13:14:27,652 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:14:27,652 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:14:27,653 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:14:27,653 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:14:27,653 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:14:27,654 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12415216)
+05 Apr 2022 13:14:27,655 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+05 Apr 2022 13:14:32,183 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 1 to participant 7 for competition 1
+05 Apr 2022 13:14:32,183 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:14:32,183 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:14:32,183 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:14:32,184 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:14:32,184 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:14:32,184 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4320c487)
+05 Apr 2022 13:14:36,451 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 3 to participant 3 for competition 1
+05 Apr 2022 13:14:36,451 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:14:36,451 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4320c487)
+05 Apr 2022 13:14:36,459 TRACE repository.ProbaDBRepository 53 addResult - Updated 1 participant
+05 Apr 2022 13:14:36,460 TRACE repository.ProbaDBRepository 54 addResult - Exit
+05 Apr 2022 13:14:37,466 TRACE repository.ParticipantDBRepository 30 getParticipantiProba - Enter
+05 Apr 2022 13:14:37,467 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:14:37,467 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12415216)
+05 Apr 2022 13:14:37,468 TRACE repository.ParticipantDBRepository 65 getParticipantiProba - Exit
+05 Apr 2022 13:14:39,363 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 3 to participant 3 for competition 1
+05 Apr 2022 13:14:39,363 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:14:39,363 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4320c487)
+05 Apr 2022 13:23:18,007 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:23:18,007 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:23:18,007 INFO  repository.ParticipantDBRepository 25 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:23:25,952 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+05 Apr 2022 13:23:25,953 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+05 Apr 2022 13:23:25,953 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:23:25,953 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:23:25,953 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:23:25,953 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:23:25,954 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:23:26,081 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@620f9b7c)
+05 Apr 2022 13:23:26,084 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+05 Apr 2022 13:23:27,100 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:23:27,101 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:23:27,101 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:23:27,101 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:23:27,101 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:23:27,101 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:23:27,102 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1a30b8a0)
+05 Apr 2022 13:23:27,103 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:23:28,119 TRACE repository.ParticipantDBRepository 73 getRaportParticipanti - Enter
+05 Apr 2022 13:23:28,119 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:23:28,119 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1a30b8a0)
+05 Apr 2022 13:23:28,120 ERROR repository.ParticipantDBRepository 110 getRaportParticipanti - java.sql.SQLException: no such column: 'scor3'
+05 Apr 2022 13:23:28,121 TRACE repository.ParticipantDBRepository 113 getRaportParticipanti - Exit
+05 Apr 2022 13:25:02,657 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+05 Apr 2022 13:25:02,657 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+05 Apr 2022 13:25:02,657 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:25:02,658 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@620f9b7c)
+05 Apr 2022 13:25:02,658 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+05 Apr 2022 13:25:03,663 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:25:03,664 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:25:03,664 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1a30b8a0)
+05 Apr 2022 13:25:03,664 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:25:05,532 TRACE repository.ParticipantDBRepository 73 getRaportParticipanti - Enter
+05 Apr 2022 13:25:05,533 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:25:05,533 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1a30b8a0)
+05 Apr 2022 13:25:05,533 ERROR repository.ParticipantDBRepository 110 getRaportParticipanti - java.sql.SQLException: no such column: 'scor3'
+05 Apr 2022 13:25:05,533 TRACE repository.ParticipantDBRepository 113 getRaportParticipanti - Exit
+05 Apr 2022 13:25:30,939 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:25:30,939 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:25:30,955 INFO  repository.ParticipantDBRepository 25 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:25:41,183 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+05 Apr 2022 13:25:41,184 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+05 Apr 2022 13:25:41,184 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:25:41,184 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:25:41,185 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:25:41,185 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:25:41,185 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:25:41,300 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@620f9b7c)
+05 Apr 2022 13:25:41,303 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+05 Apr 2022 13:25:42,315 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:25:42,315 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:25:42,315 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:25:42,315 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:25:42,316 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:25:42,316 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:25:42,316 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1a30b8a0)
+05 Apr 2022 13:25:42,317 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:25:43,328 TRACE repository.ParticipantDBRepository 73 getRaportParticipanti - Enter
+05 Apr 2022 13:25:43,328 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:25:43,328 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1a30b8a0)
+05 Apr 2022 13:25:43,329 TRACE repository.ParticipantDBRepository 113 getRaportParticipanti - Exit
+05 Apr 2022 13:29:13,809 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+05 Apr 2022 13:29:13,810 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+05 Apr 2022 13:29:13,810 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:29:13,810 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@620f9b7c)
+05 Apr 2022 13:29:13,811 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+05 Apr 2022 13:29:14,824 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:29:14,825 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:29:14,825 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1a30b8a0)
+05 Apr 2022 13:29:14,825 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:29:16,426 TRACE repository.ParticipantDBRepository 73 getRaportParticipanti - Enter
+05 Apr 2022 13:29:16,427 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:29:16,427 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1a30b8a0)
+05 Apr 2022 13:29:16,427 TRACE repository.ParticipantDBRepository 113 getRaportParticipanti - Exit
+05 Apr 2022 13:30:58,431 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:30:58,434 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:30:58,435 INFO  repository.ParticipantDBRepository 25 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:31:15,450 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+05 Apr 2022 13:31:15,451 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+05 Apr 2022 13:31:15,451 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:31:15,451 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:31:15,451 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:31:15,452 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:31:15,452 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:31:15,570 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7c41b9f2)
+05 Apr 2022 13:31:15,573 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+05 Apr 2022 13:31:16,593 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:31:16,593 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:31:16,594 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:31:16,594 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:31:16,594 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:31:16,594 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:31:16,595 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:31:16,596 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:31:17,616 TRACE repository.ParticipantDBRepository 73 getRaportParticipanti - Enter
+05 Apr 2022 13:31:17,616 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:31:17,616 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:31:17,617 TRACE repository.ParticipantDBRepository 113 getRaportParticipanti - Exit
+05 Apr 2022 13:31:33,758 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:31:33,761 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:31:33,761 INFO  repository.ParticipantDBRepository 25 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:31:42,838 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+05 Apr 2022 13:31:42,839 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+05 Apr 2022 13:31:42,839 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:31:42,839 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:31:42,839 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:31:42,840 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:31:42,840 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:31:42,952 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7c41b9f2)
+05 Apr 2022 13:31:42,956 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+05 Apr 2022 13:31:43,977 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:31:43,977 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:31:43,977 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:31:43,977 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:31:43,978 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:31:43,978 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:31:43,978 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:31:43,979 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:31:47,473 TRACE repository.ParticipantDBRepository 73 getRaportParticipanti - Enter
+05 Apr 2022 13:31:47,473 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:31:47,473 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:31:47,474 TRACE repository.ParticipantDBRepository 113 getRaportParticipanti - Exit
+05 Apr 2022 13:32:09,858 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+05 Apr 2022 13:32:09,858 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+05 Apr 2022 13:32:09,858 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:32:09,858 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7c41b9f2)
+05 Apr 2022 13:32:09,859 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+05 Apr 2022 13:32:15,164 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+05 Apr 2022 13:32:15,165 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+05 Apr 2022 13:32:15,165 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:32:15,165 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7c41b9f2)
+05 Apr 2022 13:32:15,165 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+05 Apr 2022 13:32:16,182 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:32:16,182 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:32:16,182 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:32:16,183 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:32:20,740 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 5 to participant 2 for competition 2
+05 Apr 2022 13:32:20,740 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:32:20,741 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:32:20,741 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:32:20,741 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:32:20,741 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:32:20,742 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6ee59616)
+05 Apr 2022 13:32:25,598 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 5 to participant 1 for competition 2
+05 Apr 2022 13:32:25,598 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:32:25,598 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6ee59616)
+05 Apr 2022 13:32:25,619 TRACE repository.ProbaDBRepository 53 addResult - Updated 1 participant
+05 Apr 2022 13:32:25,619 TRACE repository.ProbaDBRepository 54 addResult - Exit
+05 Apr 2022 13:32:25,622 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:32:25,623 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:32:25,623 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:32:25,624 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:32:26,621 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:32:26,622 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:32:26,622 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:32:26,623 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:32:29,544 TRACE repository.ParticipantDBRepository 73 getRaportParticipanti - Enter
+05 Apr 2022 13:32:29,545 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:32:29,545 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:32:29,545 TRACE repository.ParticipantDBRepository 113 getRaportParticipanti - Exit
+05 Apr 2022 13:32:43,539 TRACE repository.ParticipantDBRepository 73 getRaportParticipanti - Enter
+05 Apr 2022 13:32:43,539 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:32:43,539 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:32:43,540 TRACE repository.ParticipantDBRepository 113 getRaportParticipanti - Exit
+05 Apr 2022 13:33:29,432 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:33:29,435 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:33:29,436 INFO  repository.ParticipantDBRepository 25 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:33:39,080 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+05 Apr 2022 13:33:39,080 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+05 Apr 2022 13:33:39,080 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:33:39,081 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:33:39,081 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:33:39,081 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:33:39,081 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:33:39,190 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7c41b9f2)
+05 Apr 2022 13:33:39,193 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+05 Apr 2022 13:33:40,216 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:33:40,217 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:33:40,217 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:33:40,217 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:33:40,217 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:33:40,217 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:33:40,218 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:33:40,219 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:33:41,229 TRACE repository.ParticipantDBRepository 73 getRaportParticipanti - Enter
+05 Apr 2022 13:33:41,230 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:33:41,230 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:33:41,231 TRACE repository.ParticipantDBRepository 113 getRaportParticipanti - Exit
+05 Apr 2022 13:50:52,629 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:50:52,645 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:50:52,645 INFO  repository.ParticipantDBRepository 25 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:51:12,005 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+05 Apr 2022 13:51:12,005 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+05 Apr 2022 13:51:12,005 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:51:12,006 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:51:12,006 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:51:12,006 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:51:12,006 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:51:12,140 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7c41b9f2)
+05 Apr 2022 13:51:12,145 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+05 Apr 2022 13:51:13,173 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:51:13,174 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:51:13,174 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:51:13,174 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:51:13,174 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:51:13,174 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:51:13,175 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:51:13,176 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:51:31,853 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+05 Apr 2022 13:51:31,854 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+05 Apr 2022 13:51:31,854 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:51:31,855 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7c41b9f2)
+05 Apr 2022 13:51:31,855 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+05 Apr 2022 13:51:32,868 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:51:32,868 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:51:32,869 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:51:32,869 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:51:42,251 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 12 to participant 5 for competition 1
+05 Apr 2022 13:51:42,251 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:51:42,252 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:51:42,252 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:51:42,252 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:51:42,252 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:51:42,253 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@48cea3b0)
+05 Apr 2022 13:51:42,272 TRACE repository.ProbaDBRepository 53 addResult - Updated 1 participant
+05 Apr 2022 13:51:42,273 TRACE repository.ProbaDBRepository 54 addResult - Exit
+05 Apr 2022 13:51:42,277 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:51:42,277 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:51:42,277 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:51:42,278 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:51:43,285 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:51:43,286 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:51:43,286 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:51:43,286 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:51:49,563 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 5 to participant 5 for competition 2
+05 Apr 2022 13:51:49,563 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:51:49,563 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@48cea3b0)
+05 Apr 2022 13:51:49,587 TRACE repository.ProbaDBRepository 53 addResult - Updated 1 participant
+05 Apr 2022 13:51:49,587 TRACE repository.ProbaDBRepository 54 addResult - Exit
+05 Apr 2022 13:51:49,589 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:51:49,589 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:51:49,590 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:51:49,591 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:51:50,589 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:51:50,590 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:51:50,591 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:51:50,593 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:55:30,348 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:55:30,363 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:55:30,363 INFO  repository.ParticipantDBRepository 25 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:55:39,325 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+05 Apr 2022 13:55:39,326 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+05 Apr 2022 13:55:39,326 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:55:39,326 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:55:39,327 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:55:39,327 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:55:39,327 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:55:39,439 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7c41b9f2)
+05 Apr 2022 13:55:39,442 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+05 Apr 2022 13:55:40,471 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:55:40,471 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:55:40,472 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:55:40,472 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:55:40,472 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:55:40,472 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:55:40,473 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:55:40,474 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:55:49,684 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+05 Apr 2022 13:55:49,685 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+05 Apr 2022 13:55:49,686 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:55:49,686 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7c41b9f2)
+05 Apr 2022 13:55:49,686 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+05 Apr 2022 13:55:50,702 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:55:50,703 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:55:50,703 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:55:50,705 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:55:59,170 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 5 to participant 1 for competition 2
+05 Apr 2022 13:55:59,170 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:55:59,170 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:55:59,171 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:55:59,171 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:55:59,171 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:55:59,172 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@24d5bc8d)
+05 Apr 2022 13:56:38,628 INFO  repository.ArbitruDBRepository 21 <init> - Initializing ArbitruDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:56:38,628 INFO  repository.ProbaDBRepository 19 <init> - Initializing ProbaDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:56:38,628 INFO  repository.ParticipantDBRepository 25 <init> - Initializing ParticipantDBRepository with properties: {chat.jdbc.driver=org.sqlite.JDBC, triatlon.server.port=55556, jdbc.url=jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db} 
+05 Apr 2022 13:56:46,326 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+05 Apr 2022 13:56:46,326 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+05 Apr 2022 13:56:46,327 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:56:46,327 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:56:46,327 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:56:46,327 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:56:46,327 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:56:46,448 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7c41b9f2)
+05 Apr 2022 13:56:46,452 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+05 Apr 2022 13:56:47,468 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:56:47,468 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:56:47,468 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:56:47,468 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:56:47,468 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:56:47,469 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:56:47,469 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:56:47,470 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:56:58,777 TRACE repository.ArbitruDBRepository 26 getAccount - Enter
+05 Apr 2022 13:56:58,778 TRACE repository.ArbitruDBRepository 27 getAccount - Enter
+05 Apr 2022 13:56:58,778 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:56:58,778 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7c41b9f2)
+05 Apr 2022 13:56:58,779 TRACE repository.ArbitruDBRepository 52 getAccount - Exit
+05 Apr 2022 13:56:59,795 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:56:59,795 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:56:59,796 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:56:59,798 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:57:03,429 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 5 to participant 5 for competition 1
+05 Apr 2022 13:57:03,430 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:57:03,430 TRACE repository.JdbcUtils 25 getNewConnection - Enter
+05 Apr 2022 13:57:03,430 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:D:/Facultate/Sem 2/MPP/Databases/triatlon.db
+05 Apr 2022 13:57:03,430 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+05 Apr 2022 13:57:03,430 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+05 Apr 2022 13:57:03,431 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@48cea3b0)
+05 Apr 2022 13:57:03,437 TRACE repository.ProbaDBRepository 53 addResult - Updated 1 participant
+05 Apr 2022 13:57:03,438 TRACE repository.ProbaDBRepository 54 addResult - Exit
+05 Apr 2022 13:57:03,441 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:57:03,441 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:57:03,442 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:57:03,442 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:57:04,449 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:57:04,450 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:57:04,451 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:57:04,453 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:57:45,186 TRACE repository.ProbaDBRepository 25 addResult - Enter Adding score 5 to participant 5 for competition 2
+05 Apr 2022 13:57:45,186 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:57:45,187 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@48cea3b0)
+05 Apr 2022 13:57:45,209 TRACE repository.ProbaDBRepository 53 addResult - Updated 1 participant
+05 Apr 2022 13:57:45,209 TRACE repository.ProbaDBRepository 54 addResult - Exit
+05 Apr 2022 13:57:45,212 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:57:45,213 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:57:45,213 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:57:45,214 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:57:46,211 TRACE repository.ParticipantDBRepository 32 getParticipantiProba - Enter
+05 Apr 2022 13:57:46,211 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:57:46,212 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:57:46,212 TRACE repository.ParticipantDBRepository 67 getParticipantiProba - Exit
+05 Apr 2022 13:57:55,518 TRACE repository.ParticipantDBRepository 73 getRaportParticipanti - Enter
+05 Apr 2022 13:57:55,518 TRACE repository.JdbcUtils 48 getConnection - Enter
+05 Apr 2022 13:57:55,518 TRACE repository.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b0a7bd)
+05 Apr 2022 13:57:55,520 TRACE repository.ParticipantDBRepository 113 getRaportParticipanti - Exit
